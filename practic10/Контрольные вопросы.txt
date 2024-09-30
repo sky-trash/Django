@@ -1,0 +1,3 @@
+1) GET POST PUT PATCH DELETE
+2) GET POST
+3) GET- для получения данны, POST для отправки данных
