@@ -1,0 +1,4 @@
+1)Http вопросы обрабатываются в views.py
+2)urls.py отвечает за маршрутизацию
+3)django-admin startproject название_проекта
+4)django-admin startapp название_проекта
