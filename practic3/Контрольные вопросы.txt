@@ -1,0 +1,4 @@
+1)Этот файл необходим для хранения и описания моделей
+2)py .\manage.py makemigrations 
+3)в папке migrations
+4)py .\manage.py migrate          
